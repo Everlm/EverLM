@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an investigative and analytical Systems Engineer constantly in training, with extensive knowledge in developing web applications using Microsoft technologies. My experience in designing and developing web applications allows me to create high-quality solutions that are secure, reliable, and scalable.<br><br>I stay up-to-date with the latest industry trends and technologies by participating in advanced courses, obtaining industry certifications, and attending relevant conferences and workshops. In addition, I have strong analytical and problem-solving skills, as well as effective communication and collaboration skills.
+I am an investigative and analytical Systems Engineer constantly in training, I have knowledge in web application development, with a special focus on using technologies such as C# / ASP.NET and TS / Angular. My experience in designing and developing web applications enables me to create high-quality, secure, reliable, and scalable solutions.<br><br>I stay up-to-date with the latest industry trends and technologies by participating in advanced courses, obtaining industry certifications, and attending relevant conferences and workshops. In addition, I have strong analytical and problem-solving skills, as well as effective communication and collaboration skills.
 
 
 ## 🌐 Socials:
