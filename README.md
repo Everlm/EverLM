@@ -1,6 +1,5 @@
 # 💫 About Me:
-Investigative and analytical systems engineer constantly in training, I have knowledge in the development of web applications, with a special focus on the use of technologies such as ASP.NET Core for the backend and Angular for the frontend. My experience in designing and developing web applications enables me to create high-quality, secure, reliable, and scalable solutions..<br><br>I stay up-to-date with the latest industry trends and technologies by participating in advanced courses, obtaining industry certifications, and attending relevant conferences and workshops. In addition, I have strong analytical and problem-solving skills, as well as effective communication and collaboration skills.
-
+Investigative and analytical systems engineer constantly in training, I have knowledge in the development of web applications, with a special focus on the use of technologies such as ASP.NET Core for the backend and Angular for the frontend. My experience in designing and developing web applications enables me to create high-quality, secure, reliable, and scalable solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deveverlm/) 
