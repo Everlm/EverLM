@@ -1,5 +1,5 @@
 # 💫 About Me:
-Systems engineer with experience in developing web applications and knowledge in software architecture, design patterns, and agile methodologies. I have worked with various technologies for databases, backend, and frontend, and I have experience in the entire software development life cycle, from requirements analysis to application implementation. Additionally, I possess strong skills in problem analysis and resolution, as well as effective communication and collaboration.
+Systems engineer with experience in developing web applications and knowledge in software architecture, design patterns, and agile methodologies. I have worked with various technologies for databases, backend, and frontend, and I have experience in the entire software development life cycle, from requirements analysis to application implementation.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deveverlm/) 
