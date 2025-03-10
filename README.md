@@ -1,5 +1,5 @@
 # 💫 About Me:
-Systems engineer with experience in developing web applications and knowledge in software architecture, design patterns, and agile methodologies. I have worked with various technologies for databases, backend, and frontend, and I have experience in the entire software development life cycle, from requirements analysis to application implementation.
+Systems Engineer with experience in .NET (LTS and legacy), Angular, and Blazor, as well as architecture, design patterns, SOLID principles, and relational databases like PostgreSQL and SQL Server. Skilled in CI/CD with GitHub Actions and unit/integration testing using xUnit. Focused on quality, scalability, and continuous improvement
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deveverlm/) 
