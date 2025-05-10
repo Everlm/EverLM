@@ -5,7 +5,7 @@ Systems Engineer with experience in .NET (LTS and legacy), Angular, and Blazor, 
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,angular,postman,githubactions,postgres,docker,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,angular,postman,githubactions,postgres,docker,tailwind,bootstrap" />
   </a>
 </p>
 
